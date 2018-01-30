@@ -1,0 +1,15 @@
+{
+    "title": "werdfg",
+    "baseURL": "https:\/\/sdfdsf.weqr.sdf",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758823",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "weqr.sdf"
+    }
+}
